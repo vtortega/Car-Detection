@@ -20,7 +20,8 @@ It's important for this kind of Neural Nets to be very fast and effective, low o
 
 <img width="554" alt="Screenshot 2024-07-05 at 01 05 34" src="https://github.com/vtortega/Car-Detection/assets/112141870/8d378197-e7b4-4fac-9b9a-fe6411a0fb52">
 
-## How well does it work 
+## How well does it work
+some examples
 
 <img width="404" alt="Screenshot 2024-07-05 at 01 05 55" src="https://github.com/vtortega/Car-Detection/assets/112141870/abd0cd5c-9d6f-4c9c-b89d-558d980d0228">
 
