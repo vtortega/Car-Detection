@@ -1,2 +1,3 @@
-# Car-Detection
-follow a tutorial on car detection to get a better fell for it
+# Car-Detection R-NNN
+
+Follow a tutorial on building a car detection net to get a better fell for it.
