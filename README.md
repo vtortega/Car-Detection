@@ -4,7 +4,15 @@ Follow a tutorial on building a car detection net to get a better fell for it.
 
 With it we get familiar with the boudingbox around the objects, how to read them and how to train with that information
 
+## #Data Preparation
+
+We start by loading the dataset, which consists of images and their corresponding bounding box annotations. The annotations include the ImageID, xmin, ymin, xmax, and ymax coordinates which define the bounding box around each detected object.
+
 <img width="476" alt="Screenshot 2024-07-05 at 01 05 16" src="https://github.com/vtortega/Car-Detection/assets/112141870/113f18bd-4d85-432b-8db4-2fe1ab53f9fe">
+
+## Model Definition
+
+We use a pre-trained Faster R-CNN model for our car detection task. Faster R-CNN is a popular object detection model that is known for its accuracy and efficiency.
 
 How impactfull is it on computing, as its important for this kind of Nets be very fest and effective, as be be able to operate in autonomous cars, for example.
 
