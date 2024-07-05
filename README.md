@@ -1,6 +1,6 @@
 # Car-Detection R-NNN
 
-Follow a tutorial on building a car detection net to get a better fell for it.
+Building a CNN for detecting car in images
 
 With it we get familiar with the boudingbox around the objects, how to read them and how to train with that information
 
